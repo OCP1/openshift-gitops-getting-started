@@ -3,7 +3,7 @@ kind: ConsoleLink
 metadata:
   name: application-menu-jitsi
 spec:
-  href: 'https://app.lablabee.com'
+  href: 'https://jitsi-jitsi.apss-crc.testing'
   location: ApplicationMenu
   text: Your jitsi app!
   applicationMenu:
