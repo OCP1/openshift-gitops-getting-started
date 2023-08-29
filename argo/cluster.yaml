@@ -12,5 +12,5 @@ spec:
     directory:
       recurse: true
     path: cluster
-    repoURL: https://github.com/OCP1/openshift-gitops-getting-started/blob/main/argo/cluster.yaml
+    repoURL: https://github.com/OCP1/openshift-gitops-getting-started
     targetRevision: HEAD
